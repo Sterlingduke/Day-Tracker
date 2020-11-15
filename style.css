@@ -1,12 +1,12 @@
 .jumbotron{
-    color: magenta;
+    color: red;
     background-color:white;
     text-align: center;
     ;
 }
 
 .container{
-    background-color: purple;
+    background-color: rgb(92, 83, 83);
     color:white;
     }
     #datepicker{

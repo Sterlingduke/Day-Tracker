@@ -46,4 +46,6 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project */
 var today=moment();
-$("#date").text(moment().format('MMMM Do, YYYY'));
+$("#date").text(moment().format('MMMM Do, YYYY'));                 
+
+
