@@ -1,11 +1,14 @@
 .jumbotron{
     color: magenta;
-    background-color:black;
+    background-color:white;
     text-align: center;
     ;
-    
-  
 }
-body{
-    color:grey;
-}
+
+.container{
+    background-color: purple;
+    color:white;
+    }
+    #datepicker{
+        color:white;
+    }
